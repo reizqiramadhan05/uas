@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "676a9d0ec65bd2dbd74eeb86"
+  },
+  "title": "Harry Potter",
+  "author": "Rizky Ramadhan",
+  "publisher": "Post London",
+  "ISBN": 325352323,
+  "genres": "Fantasy, Horror, Sci Fi"
+},
+{
+  "_id": {
+    "$oid": "676a9e7cc65bd2dbd74eeb87"
+  },
+  "judul": "ubur ubur lembur",
+  "pengarang": "raditya dika",
+  "penerbit": "Gramedia",
+  "ISBN": 937348383728,
+  "genre": "humor"
+},
+{
+  "_id": {
+    "$oid": "676aa1b2e55a1781d04eeb86"
+  },
+  "judul": "ucup menari",
+  "penulis": "iki",
+  "penerbit": "rajamedia",
+  "ISBN": 293849291008,
+  "genre": "humor"
+}]
